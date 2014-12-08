@@ -1,0 +1,2 @@
+C:\Users\Technologist SP\Documents\GitHub\PokerGame\PokerGame12345\bin\Debug\PokerGame12345.exe.config
+C:\Users\Technologist SP\Documents\GitHub\PokerGame\PokerGame12345\obj\Debug\PokerGame12345.csprojResolveAssemblyReference.cache

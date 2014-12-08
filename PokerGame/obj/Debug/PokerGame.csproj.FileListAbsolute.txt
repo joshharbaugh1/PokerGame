@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\PokerGame\PokerGame\bin\Debug\PokerGame.exe.config
+C:\Users\Technologist SP\Documents\GitHub\PokerGame\PokerGame\bin\Debug\PokerGame.exe
+C:\Users\Technologist SP\Documents\GitHub\PokerGame\PokerGame\bin\Debug\PokerGame.pdb
+C:\Users\Technologist SP\Documents\GitHub\PokerGame\PokerGame\obj\Debug\PokerGame.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\PokerGame\PokerGame\obj\Debug\PokerGame.exe
+C:\Users\Technologist SP\Documents\GitHub\PokerGame\PokerGame\obj\Debug\PokerGame.pdb
